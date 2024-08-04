@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="prints/Screenshot_01.jpeg" alt="Pantalla 01" width="300" style="margin-right: 50px;">
+  <img src="prints/Screenshot_02.jpeg" alt="Pantalla 02" width="300" style="margin-right: 50px;">
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

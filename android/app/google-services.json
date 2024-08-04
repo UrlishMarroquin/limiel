@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930147174936",
+    "project_id": "limiel-f55b2",
+    "storage_bucket": "limiel-f55b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930147174936:android:c3907f2850e8603cd4916d",
+        "android_client_info": {
+          "package_name": "pe.umarroquin.limielapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHkvxmktYdxbcvhVwKMcz4_bj_NcEd6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
